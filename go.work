@@ -1,0 +1,9 @@
+go 1.22.0
+
+use (
+	./Exercises/Bank
+	./Exercises/Example
+	./Exercises/Pointers_Example
+	./Exercises/Structs_Example
+	./Exercises/Structs_Exercise
+)

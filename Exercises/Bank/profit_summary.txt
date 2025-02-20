@@ -1,0 +1,3 @@
+Earnings before tax: 0.00
+Profit: 0.00
+Profit ratio: NaN
